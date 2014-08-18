@@ -1,8 +1,8 @@
 {
   "name": "mobile-angular-ui",
-  "homepage": "https://github.com/mcasimir/mobile-angular-ui",
+  "homepage": "https://github.com/jofomah/mobile-angular-ui",
   "authors": [
-    "mcasimir <maurizio.cas@gmail.com>"
+    "mcasimir <osdevseries@gmail.com>"
   ],
   "description": "Mobile UI for Bootstrap 3 and Angular JS",
   "main": "dist/js/mobile-angular-ui.min.js",
@@ -27,8 +27,19 @@
     "tmp"
   ],
   "dependencies": {
-     "font-awesome": "~4.1.0",
-"bootstrap": "~3.1.1",
-"fastclick": "~1.0.0"
-  }
+    "font-awesome": "~4.1.0",
+    "bootstrap": "~3.1.1",
+    "fastclick": "~1.0.0",
+    "overthrow": "~0.7.0"
+  },
+  "version": "1.1.0-beta.29",
+  "_release": "1.1.0-beta.29",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.1.0-beta.29",
+    "commit": "2802de23d325364a35c6c2b7c28524ff8bcd46c9"
+  },
+  "_source": "https://github.com/jofomah/mobile-angular-ui.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/jofomah/mobile-angular-ui.git"
 }
